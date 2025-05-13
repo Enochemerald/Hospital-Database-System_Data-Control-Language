@@ -1,4 +1,4 @@
-# 🏥 Hospital Database System – Data Control Language (DCL)
+# 🏥 Hospital Database System – Data Control Language
 
 This outlines the implementation of **Data Control Language (DCL)** in a hospital database system, focusing on **user roles**, **privileges**, and a **secure access control strategy**. The system is designed to protect sensitive medical information while ensuring authorized access for various healthcare professionals.
 
